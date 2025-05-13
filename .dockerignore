@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+.venv/
+venv/
+.env
+.git/
+.gitignore
