@@ -33,10 +33,9 @@ A Python-based system process monitoring tool with a live dashboard, REST API, a
 - (Optional) Python 3.10 + `pip install -r requirements.txt` for local testing
 
 ### 🐳 Run with Docker Compose
+### App running inside of the Docker container
+![image](https://github.com/user-attachments/assets/c0f20102-6cbf-4a62-b9d0-4db65ab2fc25)
+
 
 ```bash
 docker-compose up --build
-
-### App running inside of the Docker container
-![image](https://github.com/user-attachments/assets/2b13e338-b9f1-43a1-8898-89782f069f9d)
-
