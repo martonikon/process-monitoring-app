@@ -36,3 +36,7 @@ A Python-based system process monitoring tool with a live dashboard, REST API, a
 
 ```bash
 docker-compose up --build
+
+### App running inside of the Docker container
+![image](https://github.com/user-attachments/assets/2b13e338-b9f1-43a1-8898-89782f069f9d)
+
